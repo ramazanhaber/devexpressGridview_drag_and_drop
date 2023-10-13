@@ -111,5 +111,11 @@ namespace deneme2019 //
                 downHitInfo = hitInfo;
 
         }
+
+        private void simpleButton1_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+        }
     }
 }
