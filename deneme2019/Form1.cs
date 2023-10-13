@@ -6,7 +6,7 @@ using System.Data;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace deneme2019
+namespace deneme2019 //
 {
     public partial class Form1 : Form
     {
